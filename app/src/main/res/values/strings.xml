@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="_0_0_km_h">0.0 km/h</string>
+    <string name="speed_limit">Speed Limit</string>
+    <string name="speed_violations">Speed Violations</string>
+    <string name="_0_00_km_h">0,00 km/h</string>
+    <string name="start">START</string>
+    <string name="save">SAVE</string>
+    <string name="back">back</string>
+    <string name="_0_00">0,00</string>
+    <string name="km_h">km/h</string>
+    <string name="_0_km_h">0 km/h</string>
+    <string name="last_7_days">Last 7 Days</string>
+    <string name="total_violations">Total Violations</string>
+    <string name="recognize">RECOGNIZE</string>
+    <string name="button">Button</string>
+</resources>
